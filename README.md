@@ -17,7 +17,7 @@
 
 <h3>⚡️  My Stats</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgelgmz&show_icons=true&locale=en" alt="jorgelgmz" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgelgmz&show_icons=true&locale=en&theme=city_lights" alt="jorgelgmz" /></p>
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="left">
